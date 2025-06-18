@@ -1,2 +1,2 @@
-# logger
-Katamanga: logger
+# logging
+Kotomanga: logging
